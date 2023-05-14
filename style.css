@@ -1,0 +1,28 @@
+QMainWindow{
+    background-color: rgb(168, 174, 252);
+}
+#index{
+    color: blue;
+    background-color: rgb(168, 174, 252);
+    border: 0;
+}
+.QLabel{
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.QComboBox{
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blanchedalmond;
+}
+.QPushButton{
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blanchedalmond;
+}
+.QLineEdit{
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+}
